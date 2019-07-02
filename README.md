@@ -62,8 +62,15 @@ FizzBuzz
 
 ### 問題文
 
-引用元: 【タイトルとリンクを書く】
+引用元: 【世界のナベアツ問題http://vipprog.net/wiki/exercise.html#p59f794f】
 
-【ここに問題を書き写す】
+【３の倍数と３のつく数字のときだけアホになります
+ルールは以下の通り
+1から順番に数を表示する
+その数が3の倍数、もしくは3のつく数字であれば"Aho"と表示する
+要するに"1 2 Aho 4 5 Aho 7 8 Aho 10 11 Aho Aho 14 ･･･"と出力される
+オモロー
+実行例
+1 2 Aho 4 5 Aho 7 8 Aho 10 11 Aho Aho 14 Aho 16 17 Aho 19 20 Aho 22 Aho Aho 25 26 Aho 28 29 Aho Aho Aho Aho Aho Aho Aho Aho Aho Aho 40 】
 
 
